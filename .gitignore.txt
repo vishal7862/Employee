@@ -1,0 +1,5 @@
+packages/*
+*.suo
+Mvc_Practice6/bin/*.dll
+Mvc_Practice6/obj/*.dll
+Mvc_Practice6/obj/Debug/*.dll
